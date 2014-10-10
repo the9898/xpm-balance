@@ -5,7 +5,7 @@ This more or less works.  It is, as of 17 Apr 2013 up at https://xpm.edenwired.c
 
 1)
 
-primecoind must be running.
+datacoind must be running.
 
 it must be running with the txindex=1 option in /.primecoin/primecoin.conf
 
